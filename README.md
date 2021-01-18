@@ -1,5 +1,5 @@
 # Converter
- - convert all epub files in (/home/$USERNAME/Downloads/) to mobi
+ - convert all epub files in (`/home/$USERNAME/Downloads/`) to mobi
  - mobi files move to .../Downloads/mobi
  - delete remaining epub files
 
